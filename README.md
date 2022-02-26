@@ -5,7 +5,9 @@ I am using brunch but I guess the fixes would work with ChromeOS Flex.
 
 ## touchscreen-suspend-fix
 
-Fix for touchscreen stopped working after resume. Add to /etc/init.
+Fix for touchscreen stopped working after resume. Add to /etc/init, for brunch.
+
+ChromeOS uses Upstart, will add the file for it later.
 
 ## thinkpad-keyboard-layout
 
