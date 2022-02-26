@@ -1,3 +1,8 @@
+# ABNT2 IBM/Lenovo ThinkPad
+
+Based on Lushootseed layout from https://github.com/google/extra-keyboards-for-chrome-os
+
+
 # Lushootseed Layout
 
 This extension adds a Lushootseed keyboard layout to Chrome OS.
