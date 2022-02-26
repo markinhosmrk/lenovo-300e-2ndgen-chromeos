@@ -1,0 +1,27 @@
+{
+  "name": "ABNT2 IBM/Lenovo ThinkPad",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "ABNT2 IBM/Lenovo ThinkPad",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "permissions": [
+    "input"
+  ],
+  "input_components": [
+    {
+      "name": "ABNT2 IBM/Lenovo ThinkPad",
+      "type": "ime",
+      "id": "abnt2_thinkpad",
+      "description": "ABNT2 IBM/Lenovo ThinkPad",
+      "language": "pt-BR",
+      "layouts": ["br(abnt2)"]
+    }
+  ]
+}
